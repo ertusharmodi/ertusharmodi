@@ -24,6 +24,8 @@
 
 ---
 
+<div align="center">
+
 ## 🟢 Availability
 
 ```bash
@@ -35,6 +37,8 @@ $ tushar --status
 ║  💬  Quick response via WhatsApp / Email             ║
 ╚══════════════════════════════════════════════════════╝
 ```
+
+</div>
 
 ---
 
@@ -56,9 +60,9 @@ I'm a **Full Stack Developer** based in Jaipur, Rajasthan, with **3+ years** of 
 
 ---
 
-## 📊 Stats at a Glance
-
 <div align="center">
+
+## 📊 Stats at a Glance
 
 | 🚀 Projects | 🕰️ Experience | 👥 Clients | 🛠️ Services |
 |:-----------:|:-------------:|:----------:|:-----------:|
@@ -70,7 +74,12 @@ I'm a **Full Stack Developer** based in Jaipur, Rajasthan, with **3+ years** of 
 
 ## 🛠️ Tech Stack & Skills
 
+<div align="center">
+
 **🌐 Frontend**
+
+</div>
+
 ```
 React.js      ████████████████████  Expert
 Next.js       ████████████████████  Expert
@@ -81,7 +90,12 @@ Tailwind CSS  ████████████████████  Expe
 Figma         ████████████░░░░░░░░  Proficient
 ```
 
+<div align="center">
+
 **⚙️ Backend**
+
+</div>
+
 ```
 Laravel (PHP) ████████████████████  Expert
 Node.js       ████████████████░░░░  Advanced
@@ -91,14 +105,24 @@ Auth Systems  ████████████████░░░░  Adva
 WebSockets    ████████████░░░░░░░░  Proficient
 ```
 
+<div align="center">
+
 **📱 Mobile**
+
+</div>
+
 ```
 Flutter       ████████████████░░░░  Advanced
 Dart          ████████████████░░░░  Advanced
 Android/iOS   ████████████████░░░░  Advanced (Cross-platform)
 ```
 
+<div align="center">
+
 **🗄️ Databases**
+
+</div>
+
 ```
 PostgreSQL    ████████████████████  Expert
 MySQL         ████████████████░░░░  Advanced
@@ -107,7 +131,12 @@ Redis         ████████████░░░░░░░░  Prof
 SQLite        ████████████████░░░░  Advanced
 ```
 
+<div align="center">
+
 **☁️ Cloud & DevOps**
+
+</div>
+
 ```
 AWS           ████████████████░░░░  Advanced
 Docker        ████████████████░░░░  Advanced
@@ -117,7 +146,12 @@ Nginx         ████████████████░░░░  Adva
 Git/GitHub    ████████████████████  Expert
 ```
 
+<div align="center">
+
 **🤖 AI & Integrations**
+
+</div>
+
 ```
 OpenAI / GPT  █████████████░░░░░░░  Proficient
 Google Gemini ████████████░░░░░░░░  Proficient
@@ -125,7 +159,12 @@ Chatbot Dev   █████████████░░░░░░░  Prof
 Payment GW    ████████████████░░░░  Advanced
 ```
 
+<div align="center">
+
 **🔍 SEO & Marketing**
+
+</div>
+
 ```
 Technical SEO ████████████████░░░░  Advanced
 On-Page SEO   █████████████████░░░  Advanced
@@ -134,6 +173,8 @@ Analytics     █████████████░░░░░░░  Prof
 ```
 
 ---
+
+<div align="center">
 
 ## 💼 Services I Offer
 
@@ -149,27 +190,35 @@ Analytics     █████████████░░░░░░░  Prof
 | 08 | ⚙️ **Cloud & DevOps Setup** | AWS deployment, Docker containerisation, CI/CD pipelines — live, secure, auto-scaling |
 | 09 | 📈 **SEO & Digital Marketing** | Technical SEO, on-page optimisation, and content strategy to rank higher organically |
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🔄 My Work Process
 
 ```
   01. DISCOVERY CALL          02. PROPOSAL & TIMELINE
-  ┌──────────────────┐        ┌──────────────────────┐
-  │ Goals, scope,    │ ─────> │ Fixed quote,         │
-  │ tech constraints │        │ milestones, & stack  │
-  │ & requirements   │        │ plan. No hidden costs│
-  └──────────────────┘        └──────────────────────┘
+  ┌──────────────────┐        ┌───────────────────────┐
+  │ Goals, scope,    │ ─────> │ Fixed quote,          │
+  │ tech constraints │        │ milestones, & stack   │
+  │ & requirements   │        │ plan. No hidden costs │
+  └──────────────────┘        └───────────────────────┘
                                           │
   04. DEPLOY & SUPPORT        03. BUILD & REVIEW
-  ┌──────────────────┐        ┌─────────────────────-─┐
+  ┌──────────────────┐        ┌───────────────────────┐
   │ Production launch│ <───── │ Weekly demos, reviews,│
   │ + 30-day FREE    │        │ feedback loops &      │
   │ post-launch help │        │ daily updates         │
-  └──────────────────┘        └─────────────────────-─┘
+  └──────────────────┘        └───────────────────────┘
 ```
 
+</div>
+
 ---
+
+<div align="center">
 
 ## ✅ Why Work With Me?
 
@@ -184,7 +233,11 @@ Analytics     █████████████░░░░░░░  Prof
 | 🧼 | **Zero Technical Debt** | Clean, documented, scalable code using modern tech like Laravel and Docker. |
 | 👨‍💻 | **Direct Dev Access** | No middlemen. You talk directly to me — the person writing your code. |
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 💰 Payment Structure
 
@@ -202,7 +255,11 @@ Analytics     █████████████░░░░░░░  Prof
   🌍  International: Wire Transfer · PayPal · Wise
 ```
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🌍 International Clients
 
@@ -210,7 +267,11 @@ Worked with clients from 🇺🇸 United States · 🇬🇧 United Kingdom · �
 
 Flexible with time zones. Communication via WhatsApp, Slack, or Email.
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📅 Project Timelines
 
@@ -224,7 +285,11 @@ Flexible with time zones. Communication via WhatsApp, Slack, or Email.
 
 > *Detailed timeline with milestones provided in the proposal — before any work begins.*
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📝 Monthly Retainer Plans
 
@@ -238,32 +303,38 @@ After project delivery, opt for a **monthly maintenance retainer** that includes
 
 **Plans starting at ₹5,000 / month** — ask for details during the consultation call.
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📰 Latest Blog Posts
 
 | Date | Category | Title |
-|------|----------|-------|
+|:----:|:--------:|-------|
 | 25 Mar 2026 | Laravel | [Laravel 11: Everything New in the Minimal Application Skeleton](https://tusharmodi.in/blogs/laravel-11-everything-new-in-the-minimal-application-skeleton) |
 | 11 Mar 2026 | Laravel | [Laravel Volt & Livewire 3: Single-File Reactive Components Explained](https://tusharmodi.in/blogs/laravel-volt-livewire-3-single-file-reactive-components-explained) |
 | 04 Mar 2026 | AI Tools | [Claude Opus 4 vs GPT-4o: Which AI Actually Wins for Developers?](https://tusharmodi.in/blogs/claude-opus-4-vs-gpt-4o-which-ai-actually-wins-for-developers) |
 
 [➡️ View all posts on tusharmodi.in/blogs](https://tusharmodi.in/blogs)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📬 Contact & Hire Me
 
 ```
 💼  Open for: Freelance · Remote Work · Contract Projects · Long-term Retainer
 
-📧  Email      →  tusharmodi.in/contact
+📧  Email      →  er@tusharmodi.in
 💬  WhatsApp   →  Quick response guaranteed (within a few hours)
 🔗  LinkedIn   →  linkedin.com/in/ertusharmodi
-🖥️  Portfolio  →  tusharmodi.in
+🖥️  Portfolio  →  tusharmodi.in/about
 ```
-
-<div align="center">
 
 [![Hire Me](https://img.shields.io/badge/💼_HIRE_ME-Free_Consultation-0D1117?style=for-the-badge)](https://tusharmodi.in/contact)
 [![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919999999999)
@@ -273,23 +344,23 @@ After project delivery, opt for a **monthly maintenance retainer** that includes
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
+
+## 📊 GitHub Stats
 
 ![Tushar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ertusharmodi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ertusharmodi&layout=compact&theme=github_dark&hide_border=true&langs_count=10)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ertusharmodi&theme=github-dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ertusharmodi&theme=github-dark&hide_border=true)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
 <div align="center">
+
+## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ertusharmodi&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)
 
@@ -297,9 +368,9 @@ After project delivery, opt for a **monthly maintenance retainer** that includes
 
 ---
 
-## 📈 Activity Graph
-
 <div align="center">
+
+## 📈 Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ertusharmodi&theme=github-compact&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/ertusharmodi)
 
