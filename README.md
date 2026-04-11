@@ -28,8 +28,7 @@
 
 ## 🟢 Availability
 
-```bash
-$ tushar --status
+```
 ╔══════════════════════════════════════════════════════╗
 ║  ✅  OPEN TO WORK  —  2026                           ║
 ║  📍  Jaipur, Rajasthan, India                        ║
@@ -42,7 +41,11 @@ $ tushar --status
 
 ---
 
+<div align="center">
+
 ## 🧑‍💻 About Me
+
+</div>
 
 I'm a **Full Stack Developer** based in Jaipur, Rajasthan, with **3+ years** of experience crafting web applications that are **fast, accessible, and maintainable** — from SaaS platforms to e-commerce, mobile apps to cloud deployments.
 
@@ -56,7 +59,11 @@ I'm a **Full Stack Developer** based in Jaipur, Rajasthan, with **3+ years** of 
 - 🗣️ Communication via **WhatsApp, Slack, or Email** — flexible with time zones
 - 🤝 **No middlemen** — you talk directly to the person writing your code
 
+<div align="center">
+
 > *"Clean code, clear communication, and shipping on time — that's the standard I hold myself to."*
+
+</div>
 
 ---
 
@@ -72,9 +79,9 @@ I'm a **Full Stack Developer** based in Jaipur, Rajasthan, with **3+ years** of 
 
 ---
 
-## 🛠️ Tech Stack & Skills
-
 <div align="center">
+
+## 🛠️ Tech Stack & Skills
 
 **🌐 Frontend**
 
@@ -179,7 +186,7 @@ Analytics     █████████████░░░░░░░  Prof
 ## 💼 Services I Offer
 
 | # | Service | Description |
-|:-:|---------|-------------|
+|:-:|:--------|:------------|
 | 01 | 🖥️ **Full Stack Web App** | End-to-end web application development — from database design to pixel-perfect UI |
 | 02 | 🔌 **REST API / Backend** | Robust, documented REST APIs with auth, rate limiting, caching, and full test coverage |
 | 03 | 🎨 **Frontend / UI Only** | Responsive, accessible, pixel-perfect frontends from Figma designs or wireframes |
@@ -205,8 +212,8 @@ Analytics     █████████████░░░░░░░  Prof
   │ tech constraints │        │ milestones, & stack   │
   │ & requirements   │        │ plan. No hidden costs │
   └──────────────────┘        └───────────────────────┘
-                                          │
-  04. DEPLOY & SUPPORT        03. BUILD & REVIEW
+                                   │ 
+  04. DEPLOY & SUPPORT          03. BUILD & REVIEW
   ┌──────────────────┐        ┌───────────────────────┐
   │ Production launch│ <───── │ Weekly demos, reviews,│
   │ + 30-day FREE    │        │ feedback loops &      │
@@ -223,7 +230,7 @@ Analytics     █████████████░░░░░░░  Prof
 ## ✅ Why Work With Me?
 
 | | Benefit | What it means |
-|-|---------|---------------|
+|:-|:--------|:--------------|
 | 💎 | **No Hidden Costs** | Transparent fixed-price quotes upfront. What you see is what you pay. |
 | 🎧 | **30-Day Free Support** | Every project ships with a month of free bug fixes and post-launch support. |
 | 📲 | **WhatsApp Updates** | Daily progress updates on WhatsApp. You are never left in the dark. |
@@ -232,28 +239,6 @@ Analytics     █████████████░░░░░░░  Prof
 | 🌐 | **India-Based, Global Standards** | Cost-effective pricing with quality that competes with top international agencies. |
 | 🧼 | **Zero Technical Debt** | Clean, documented, scalable code using modern tech like Laravel and Docker. |
 | 👨‍💻 | **Direct Dev Access** | No middlemen. You talk directly to me — the person writing your code. |
-
-</div>
-
----
-
-<div align="center">
-
-## 💰 Payment Structure
-
-```
-  Project Kickoff       Mid-Project Milestone       Final Delivery
-        │                       │                         │
-        ▼                       ▼                         ▼
-    ╔══════╗               ╔══════╗                  ╔══════╗
-    ║  40% ║ ───────────>  ║  40% ║  ──────────────> ║  20% ║
-    ╚══════╝               ╚══════╝                  ╚══════╝
-     Advance               Milestone                 On Delivery
-
-  💡  Small projects under ₹15,000  →  50 / 50 split
-  🧾  Formal invoice provided for all payments
-  🌍  International: Wire Transfer · PayPal · Wise
-```
 
 </div>
 
@@ -276,14 +261,14 @@ Flexible with time zones. Communication via WhatsApp, Slack, or Email.
 ## 📅 Project Timelines
 
 | Project Type | Estimated Duration |
-|---|---|
+|:-------------|:------------------:|
 | 🌐 Landing Page / Small Website | 5 – 10 working days |
 | 🛒 Full Web App / E-Commerce | 3 – 6 weeks |
 | 📱 Mobile App | 4 – 8 weeks |
 | 🤖 AI Integration | 1 – 3 weeks |
 | ☁️ Cloud / DevOps Setup | 3 – 7 days |
 
-> *Detailed timeline with milestones provided in the proposal — before any work begins.*
+*Detailed timeline with milestones provided in the proposal — before any work begins.*
 
 </div>
 
@@ -295,11 +280,7 @@ Flexible with time zones. Communication via WhatsApp, Slack, or Email.
 
 After project delivery, opt for a **monthly maintenance retainer** that includes:
 
-- 🐛 Bug fixes & issue resolution
-- ✨ Small feature updates
-- 📡 Server monitoring & uptime checks
-- 💾 Automated backups
-- 🚨 Priority response & support
+🐛 Bug fixes & issue resolution &nbsp;·&nbsp; ✨ Small feature updates &nbsp;·&nbsp; 📡 Server monitoring & uptime checks &nbsp;·&nbsp; 💾 Automated backups &nbsp;·&nbsp; 🚨 Priority response & support
 
 **Plans starting at ₹5,000 / month** — ask for details during the consultation call.
 
@@ -312,7 +293,7 @@ After project delivery, opt for a **monthly maintenance retainer** that includes
 ## 📰 Latest Blog Posts
 
 | Date | Category | Title |
-|:----:|:--------:|-------|
+|:----:|:--------:|:------|
 | 25 Mar 2026 | Laravel | [Laravel 11: Everything New in the Minimal Application Skeleton](https://tusharmodi.in/blogs/laravel-11-everything-new-in-the-minimal-application-skeleton) |
 | 11 Mar 2026 | Laravel | [Laravel Volt & Livewire 3: Single-File Reactive Components Explained](https://tusharmodi.in/blogs/laravel-volt-livewire-3-single-file-reactive-components-explained) |
 | 04 Mar 2026 | AI Tools | [Claude Opus 4 vs GPT-4o: Which AI Actually Wins for Developers?](https://tusharmodi.in/blogs/claude-opus-4-vs-gpt-4o-which-ai-actually-wins-for-developers) |
@@ -333,7 +314,8 @@ After project delivery, opt for a **monthly maintenance retainer** that includes
 📧  Email      →  er@tusharmodi.in
 💬  WhatsApp   →  Quick response guaranteed (within a few hours)
 🔗  LinkedIn   →  linkedin.com/in/ertusharmodi
-🖥️  Portfolio  →  tusharmodi.in/about
+🖥️  Portfolio  →  tusharmodi.in
+🖥️  Career  →  tusharmodi.in/about
 ```
 
 [![Hire Me](https://img.shields.io/badge/💼_HIRE_ME-Free_Consultation-0D1117?style=for-the-badge)](https://tusharmodi.in/contact)
@@ -348,21 +330,13 @@ After project delivery, opt for a **monthly maintenance retainer** that includes
 
 ## 📊 GitHub Stats
 
-![Tushar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ertusharmodi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
+![Followers](https://img.shields.io/github/followers/ertusharmodi?style=for-the-badge&label=Followers&color=0D1117&labelColor=161b22&logo=github&logoColor=white)
+![Stars](https://img.shields.io/github/stars/ertusharmodi?style=for-the-badge&label=Total%20Stars&color=0D1117&labelColor=161b22&logo=github&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=ertusharmodi&color=0D1117&style=for-the-badge&label=PROFILE+VIEWS)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ertusharmodi&layout=compact&theme=github_dark&hide_border=true&langs_count=10)
+<br>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ertusharmodi&theme=github-dark&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ertusharmodi&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 
@@ -451,7 +425,5 @@ Yes. After project delivery, you can opt for a monthly retainer that includes bu
 ---
 
 *© 2026 Tushar Modi · Jaipur, Rajasthan, India · [tusharmodi.in](https://tusharmodi.in)*
-
-![Profile Views](https://komarev.com/ghpvc/?username=ertusharmodi&color=0D1117&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
