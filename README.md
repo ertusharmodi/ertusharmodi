@@ -29,10 +29,10 @@
 ```bash
 $ tushar --status
 ╔══════════════════════════════════════════════════════╗
-║  ✅  OPEN TO WORK  —  2026                          ║
-║  📍  Jaipur, Rajasthan, India                         ║
-║  🌍  Available for Global Freelance & Remote Work   ║
-║  💬  Quick response via WhatsApp / Email            ║
+║  ✅  OPEN TO WORK  —  2026                           ║
+║  📍  Jaipur, Rajasthan, India                        ║
+║  🌍  Available for Global Freelance & Remote Work    ║
+║  💬  Quick response via WhatsApp / Email             ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
@@ -156,17 +156,17 @@ Analytics     █████████████░░░░░░░  Prof
 ```
   01. DISCOVERY CALL          02. PROPOSAL & TIMELINE
   ┌──────────────────┐        ┌──────────────────────┐
-  │ Goals, scope,    │ ─────> │ Fixed quote,          │
-  │ tech constraints │        │ milestones, & stack   │
-  │ & requirements   │        │ plan. No hidden costs │
+  │ Goals, scope,    │ ─────> │ Fixed quote,         │
+  │ tech constraints │        │ milestones, & stack  │
+  │ & requirements   │        │ plan. No hidden costs│
   └──────────────────┘        └──────────────────────┘
                                           │
   04. DEPLOY & SUPPORT        03. BUILD & REVIEW
-  ┌──────────────────┐        ┌──────────────────────┐
+  ┌──────────────────┐        ┌─────────────────────-─┐
   │ Production launch│ <───── │ Weekly demos, reviews,│
-  │ + 30-day FREE   │        │ feedback loops &      │
+  │ + 30-day FREE    │        │ feedback loops &      │
   │ post-launch help │        │ daily updates         │
-  └──────────────────┘        └──────────────────────┘
+  └──────────────────┘        └─────────────────────-─┘
 ```
 
 ---
