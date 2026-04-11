@@ -30,10 +30,10 @@
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║  ✅  OPEN TO WORK  —  2026                           ║
-║  📍  Jaipur, Rajasthan, India                        ║
-║  🌍  Available for Global Freelance & Remote Work    ║
-║  💬  Quick response via WhatsApp / Email             ║
+║  OPEN TO WORK  —  2026                               ║
+║  Jaipur, Rajasthan, India                            ║
+║  Available for Global Freelance & Remote Work        ║
+║  WhatsApp / Email  —  Quick Response                 ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
@@ -45,21 +45,15 @@
 
 ## 🧑‍💻 About Me
 
-</div>
-
 I'm a **Full Stack Developer** based in Jaipur, Rajasthan, with **3+ years** of experience crafting web applications that are **fast, accessible, and maintainable** — from SaaS platforms to e-commerce, mobile apps to cloud deployments.
 
-- 🏗️ I take **full ownership** — design, development, and deployment
-- 🧹 I write **clean, documented, and scalable code** with zero technical debt
-- 🕐 **Deadlines are commitments** — I ship on schedule, every time
-- 📱 I give **daily WhatsApp updates** — no ghosting, ever
-- 🔏 I sign **NDA** before starting — full IP rights transferred to you on delivery
-- 💰 **Transparent fixed-price quotes** — no hidden costs, ever
-- 🌍 Worked with clients from **US, UK, UAE, and Australia**
-- 🗣️ Communication via **WhatsApp, Slack, or Email** — flexible with time zones
-- 🤝 **No middlemen** — you talk directly to the person writing your code
+| 🏗️ Full Ownership | 🧹 Clean Code | 🕐 On-Time Delivery | 📱 Daily Updates |
+|:-----------------:|:------------:|:-------------------:|:----------------:|
+| Design → Dev → Deploy | Zero technical debt | Deadlines are commitments | WhatsApp updates, no ghosting |
 
-<div align="center">
+| 🔏 NDA Signed | 💰 Fixed Pricing | 🌍 Global Clients | 🤝 No Middlemen |
+|:-------------:|:----------------:|:-----------------:|:---------------:|
+| Full IP rights on delivery | No hidden costs, ever | US · UK · UAE · AU | You talk directly to me |
 
 > *"Clean code, clear communication, and shipping on time — that's the standard I hold myself to."*
 
@@ -207,18 +201,18 @@ Analytics     █████████████░░░░░░░  Prof
 
 ```
   01. DISCOVERY CALL          02. PROPOSAL & TIMELINE
-  ┌──────────────────┐        ┌───────────────────────┐
-  │ Goals, scope,    │ ─────> │ Fixed quote,          │
-  │ tech constraints │        │ milestones, & stack   │
-  │ & requirements   │        │ plan. No hidden costs │
-  └──────────────────┘        └───────────────────────┘
-                                   │ 
-  04. DEPLOY & SUPPORT          03. BUILD & REVIEW
-  ┌──────────────────┐        ┌───────────────────────┐
-  │ Production launch│ <───── │ Weekly demos, reviews,│
-  │ + 30-day FREE    │        │ feedback loops &      │
-  │ post-launch help │        │ daily updates         │
-  └──────────────────┘        └───────────────────────┘
+  ┌──────────────────┐        ┌──────────────────────┐
+  │ Goals, scope,    │ ─────> │ Fixed quote,         │
+  │ tech constraints │        │ milestones, & stack  │
+  │ & requirements   │        │ No hidden costs      │
+  └──────────────────┘        └──────────────────────┘
+                                          │
+  04. DEPLOY & SUPPORT        03. BUILD & REVIEW
+  ┌──────────────────┐        ┌──────────────────────┐
+  │ Production launch│ <───── │ Weekly demos,        │
+  │ + 30-day FREE    │        │ feedback & reviews,  │
+  │ post-launch help │        │ daily updates        │
+  └──────────────────┘        └──────────────────────┘
 ```
 
 </div>
@@ -315,7 +309,7 @@ After project delivery, opt for a **monthly maintenance retainer** that includes
 💬  WhatsApp   →  Quick response guaranteed (within a few hours)
 🔗  LinkedIn   →  linkedin.com/in/ertusharmodi
 🖥️  Portfolio  →  tusharmodi.in
-🖥️  Career  →  tusharmodi.in/about
+🗂️  Career     →  tusharmodi.in/about
 ```
 
 [![Hire Me](https://img.shields.io/badge/💼_HIRE_ME-Free_Consultation-0D1117?style=for-the-badge)](https://tusharmodi.in/contact)
@@ -352,7 +346,11 @@ After project delivery, opt for a **monthly maintenance retainer** that includes
 
 ---
 
+<div align="center">
+
 ## ❓ FAQ
+
+</div>
 
 <details>
 <summary><b>🕒 How long does a typical project take?</b></summary>
