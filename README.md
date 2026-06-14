@@ -2,7 +2,7 @@
 
 # Tushar Modi.
 
-### Full Stack Developer · Laravel & PHP Specialist
+### Full Stack Developer · Laravel & PHP Specialist 🇮🇳
 
 `Building fast, scalable web apps with Laravel, PHP & modern cloud infrastructure`
 
@@ -24,18 +24,26 @@ name:        Tushar Modi
 role:        Full Stack Developer & Systems Architect
 location:    Jaipur / Jodhpur, Rajasthan, India
 experience:  4+ years
-focus:       Laravel · PHP · MySQL · AWS · Docker
+focus:       Laravel · PHP · MySQL · AWS · Docker · AI Integration
 stats:       30+ projects delivered · 15+ clients · zero missed deadlines
 availability: Remote / Hybrid · 1 month notice
 ```
 
-Full Stack Developer focused on building high-performance web architectures and scalable backend systems. Core expertise in the **PHP ecosystem** (Laravel, Yii2, CodeIgniter) and advanced **MySQL** database design — performance optimization, complex stored procedures, and clean, maintainable code. Comfortable owning the whole stack: design → develop → deploy.
+Full Stack Developer focused on building high-performance web architectures and scalable backend systems. Core expertise in the **PHP ecosystem** (Laravel, Yii2, CodeIgniter) and advanced **MySQL** database design — performance optimization, complex stored procedures, and clean, maintainable code. Increasingly building **AI-powered features** into products — chatbots, document analysis, and LLM-driven workflows. Comfortable owning the whole stack: design → develop → deploy.
+
+<div align="center">
+
+| 🏗️ Full Ownership | 🧹 Clean Code | 🕐 On-Time, Always | 🤖 AI-Native |
+|:-----------------:|:------------:|:------------------:|:------------:|
+| Design → Dev → Deploy | Zero technical debt | 0 missed deadlines | LLM-powered builds |
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend**
+**⚙️ Backend**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -43,19 +51,37 @@ Full Stack Developer focused on building high-performance web architectures and 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**Frontend**
+**🌐 Frontend**
 
 ![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**DevOps & Cloud**
+**☁️ DevOps & Cloud**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**🤖 AI & Integrations**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+---
+
+## 🤖 Building with AI
+
+I integrate **LLMs into real products**, not just demos — shipping AI features that actually solve problems:
+
+- 💬 **Chatbots & assistants** — context-aware support and Q&A built on OpenAI, Gemini & Claude
+- 📄 **Document analysis** — extraction, summarization & semantic search over user data
+- ⚡ **AI-assisted workflows** — auto-generation, smart automation & RAG pipelines
+- 🛠️ **AI-native dev** — Copilot & Claude woven into my daily build flow for faster, cleaner shipping
 
 ---
 
@@ -108,6 +134,7 @@ I share Laravel, PHP & AI-dev content on my [blog](https://tusharmodi.in/blogs) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ertusharmodi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ertusharmodi/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-er__tusharmodi-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/er_tusharmodi)
 [![Instagram](https://img.shields.io/badge/Instagram-dev.tusharmodi-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dev.tusharmodi/)
+[![Instagram](https://img.shields.io/badge/Instagram-bajrang.diaries-C13584?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/bajrang.diaries/)
 
 <br/>
 
